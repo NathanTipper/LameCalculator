@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ntipper/.android/build-cache/ef1118893abddd56c37c918ec44aefa4abfa44d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e616b95568c5f38322799069485eb73f68ffec0a">
+        <dex dex="/home/ntipper/Classes/hci/assn1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41c44eaff50ee6a1bfa7cd682e13d8ccfca76a85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ntipper/.android/build-cache/a0afd3c440c857864e28d3fba0be40d6c41768bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cf7abe2a43ffb1d475e94d0877ef3abb95fff56e">
+        <dex dex="/home/ntipper/Classes/hci/assn1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_548143010b652b240f09e3f9db5c334139f40cb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ntipper/.android/build-cache/a3629ddf5e098b883da7022abcff0563062e60f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/ntipper/Classes/hci/assn1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc3523009bf97612c3d82988164f2b7838d8b3cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ntipper/.android/build-cache/6eddba489e0b0d55f773a1366b9e97bbb9151379/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0e97fa8abc1a1a90087ce8b093d11f1a8e0f1214">
+        <dex dex="/home/ntipper/Classes/hci/assn1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54a05d4c65e7908ed81248f61a9367bc97e7302c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ntipper/Classes/hci/assn1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ntipper/Classes/hci/assn1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_754eb785a0ff27018e9a33eab109cdbc9e05aea1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ntipper/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/ntipper/Classes/hci/assn1/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_c04a9c999fc7c4594e7a7f2785297a84d91ab070/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ntipper/.android/build-cache/e4d769f44c70a8b53781fe2ef71529acb54fe24d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="89172db744f643c670ee7f9620b39ed460bc23fb">
+        <dex dex="/home/ntipper/Classes/hci/assn1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2d2635a073e2681ae0311342954992e63a3b1c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ntipper/.android/build-cache/9bc35a6e3922749ac6149c4c6e60fbadef7a7f23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7103318ab8a16fe56a325b7554b088f4d49e4700">
+        <dex dex="/home/ntipper/Classes/hci/assn1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea68fcda131fcc739da59f82d06a81272e372530/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ntipper/Classes/hci/assn1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="db584e95e910e1a4081924b9e2d7f32bad347516">
+        <dex dex="/home/ntipper/Classes/hci/assn1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eec02b21a47c520e46454b95503911dbb07c7e3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ntipper/.android/build-cache/a8b9d21e6a3121c9b024a58fb631ff2222cd160c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="62e71cc187cfcb1ba382b05c5f39f5d903973656">
+        <dex dex="/home/ntipper/Classes/hci/assn1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_507b2f61c1dc8087bc084d1d4149beaee6f98bd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ntipper/.android/build-cache/49a0ba18ecbfe09f5c8aa7ac19152d151315a85d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9e3177fae918dbe4e58eccf197cfb56bfaf59803">
+        <dex dex="/home/ntipper/Classes/hci/assn1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ff11d044cce57e9e0d911dd4bb3c46aa6f15705/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ntipper/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.0/a7782471b2a0de8fec071b8094a8aaf61c46ab70/support-annotations-27.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
+        <dex dex="/home/ntipper/Classes/hci/assn1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.0.0_0190b763b09316da56bb6df14464d0c605667dea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ntipper/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/ntipper/Classes/hci/assn1/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_504c0985d7a245e8a6b2996825e345bf364c29ff/classes.dex" />
+    </item>
+
+</items>
